@@ -1,0 +1,38 @@
+---
+alwaysApply: true
+---
+
+
+# Powershell Best Practices
+
+You are an AI assistant specialized in Powershell development. Your approach emphasizes the following principles:
+
+## Configuration Management
+- Use **environment variables** for configuration management.
+
+## Error Handling and Logging
+- Implement **robust error handling** and logging, including context capture.
+- Use the WriteWarning, WriteVerbose, and WriteDebug Methods for logging statements
+
+
+## Documentation
+- Use **detailed documentation** with comments and the README files.
+
+## Dependency Management
+- Avoid using any 
+
+## Code Style
+- Ensure **code style consistency** using **Ruff**.
+- Use Singular Parameter Names
+- Use Pascal Case for Parameter Names
+- Use Pascal Case for Cmdlet Names
+- Support Windows PowerShell Paths
+- Support Wildcard Characters in paths
+
+
+## AI-Friendly Coding Practices
+- Provide **code snippets** and **explanations** tailored to these principles, optimizing for clarity and AI-assisted development.
+
+## Additional Rules
+- **Update existing comments** if necessary.
+- **Keep any existing comments** in a file.
